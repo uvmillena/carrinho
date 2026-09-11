@@ -17,6 +17,11 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 - Interdisciplinaridade: Aplicar conceitos práticos de mecatrônica, como cinemática, circuitos elétricos, soldagem e lógica de programação.
 - Baixo Custo: Criar um protótipo funcional minimizando a compra de componentes novos, utilizando o que seria descartado
 
+
+## Resultado final
+-  a construção bem-sucedida de um veículo mecatrônico autônomo funcional (E-Waste Rover) controlado por estímulos luminosos e feito com mais de 70% de materiais reciclados.
+
+
 ---
 ## Simulador do projeto
 [simulador](https://www.tinkercad.com/things/hzgKnSdj5Wt-carrinho?sharecode=hbV3Fze8Z-8JBPMnx0S89FvmKcjXlmfALEmfM_G3T2c)
