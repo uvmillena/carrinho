@@ -21,7 +21,7 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 # Componentes usados
 Obs: apenas tinta e a fita adesiva foram usadas da preferência do autor.
 
-![](img/IMG_1076.JPG)
+![](img/IMG_E1076.HEIC)
 
 
 # Carrinho feito antes de por os componentes.
