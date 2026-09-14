@@ -5,7 +5,7 @@ Projeto de um veículo mecatrônico usando sucata de lixo eletrônico.
 
 Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo ou controlado remotamente, construído a partir da reutilização de lixo eletrônico (e-waste) e materiais de sucata. A iniciativa une conceitos de engenharia mecânica, eletrônica e programação à conscientização ambiental, demonstrando como resíduos tecnológicos descartados podem ganhar uma nova vida útil através da robótica educacional.
 
-![](img/OJFO0418.JPG)
+![](IMG_1132.JPG)
 
 ## Autores
 - Gabriella
