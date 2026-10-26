@@ -31,12 +31,7 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 
 <img width="3060" height="4080" alt="20261026_135836" src="https://github.com/user-attachments/assets/33006ec3-28ac-47d5-967b-d47d9e80525f" />
 
-
 <img width="3060" height="4080" alt="20261026_135905" src="https://github.com/user-attachments/assets/c4f94054-a645-40c3-8ed8-5f3f41888381" />
-
-
-![](img/IMG_E1076.JPG)
-
 
 
 # Carrinho feito antes de por os componentes.
@@ -44,10 +39,11 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 
 <img width="4080" height="3060" alt="20261026_142652" src="https://github.com/user-attachments/assets/57132884-7f5c-4c2f-a38b-84476376ac41" />
 
+<img width="4080" height="3060" alt="20261026_142652" src="https://github.com/user-attachments/assets/7f3c15eb-7571-405b-9b32-4005f3e4b122" />
+
 
 ## Resultado final
 -  a construção bem-sucedida de um veículo mecatrônico autônomo funcional (E-Waste Rover) controlado por estímulos luminosos e feito com mais de 70% de materiais reciclados.
-
 
 ---
 ## Simulador do projeto
