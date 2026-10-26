@@ -24,7 +24,9 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 -rodas carrinho de brinquedo 
 -tinta
 -fita adesiva
--![Uploading 20261026_135905.jpg…]()
+
+<img width="3060" height="4080" alt="20261026_135905" src="https://github.com/user-attachments/assets/c4f94054-a645-40c3-8ed8-5f3f41888381" />
+
 
 ![](img/IMG_E1076.JPG)
 
