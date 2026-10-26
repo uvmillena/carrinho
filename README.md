@@ -42,6 +42,8 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 # Carrinho feito antes de por os componentes.
 ![](IMG_1073.JPG).
 
+<img width="4080" height="3060" alt="20261026_142652" src="https://github.com/user-attachments/assets/57132884-7f5c-4c2f-a38b-84476376ac41" />
+
 
 ## Resultado final
 -  a construção bem-sucedida de um veículo mecatrônico autônomo funcional (E-Waste Rover) controlado por estímulos luminosos e feito com mais de 70% de materiais reciclados.
