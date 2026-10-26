@@ -19,13 +19,13 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 - Interdisciplinaridade: Aplicar conceitos práticos de mecatrônica, como cinemática, circuitos elétricos, soldagem e lógica de programação.
 - Baixo Custo: Criar um protótipo funcional minimizando a compra de componentes novos, utilizando o que seria descartado
 
-# Componentes usados
-Obs:
+# Componentes usados:
 -latinha monster 
 -rodas carrinho de brinquedo 
 -tinta
 -fita adesiva
 -
+
 ![](img/IMG_E1076.JPG)
 
 
