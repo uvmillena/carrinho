@@ -20,9 +20,14 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 - Baixo Custo: Criar um protótipo funcional minimizando a compra de componentes novos, utilizando o que seria descartado
 
 # Componentes usados
-Obs: apenas tinta e a fita adesiva foram usadas da preferência do autor.
-
+Obs:
+-latinha monster 
+-rodas carrinho de brinquedo 
+-tinta
+-fita adesiva
+-
 ![](img/IMG_E1076.JPG)
+
 
 
 # Carrinho feito antes de por os componentes.
