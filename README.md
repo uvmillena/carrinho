@@ -25,6 +25,7 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 -tinta
 -fita adesiva
 -
+https://github.com/uvmillena/carrinho/blob/main/20261026_135836.jpg
 
 ![](img/IMG_E1076.JPG)
 
