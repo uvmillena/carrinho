@@ -12,7 +12,7 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 - Jamile
 - Millena
 - Raphaella
-- gabriel
+- Gabriel
 
 ## Objetivo
 - Sustentabilidade: Reduzir o impacto ambiental do lixo eletrônico por meio da logística reversa e do upcycling (reutilização criativa).
@@ -23,7 +23,8 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 -latinha monster 
 -rodas carrinho de brinquedo 
 -tinta
--fita adesiva
+-fita adesiva (opcional)
+
 -----------------------------------------------------------
 
 <img width="4080" height="3060" alt="20261026_135858" src="https://github.com/user-attachments/assets/ff527587-cee9-4674-9fd1-fe2be89652fd" />
