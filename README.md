@@ -24,8 +24,7 @@ Este projeto consiste no desenvolvimento de um veículo mecatrônico autônomo o
 -rodas carrinho de brinquedo 
 -tinta
 -fita adesiva
--
-https://github.com/uvmillena/carrinho/blob/main/20261026_135836.jpg
+-![Uploading 20261026_135905.jpg…]()
 
 ![](img/IMG_E1076.JPG)
 
